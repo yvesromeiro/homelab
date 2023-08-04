@@ -1,0 +1,9 @@
+controlplanes:
+  hosts:
+    controlplane:
+      ansible_host: controlplane
+
+nodes:
+  hosts:
+    node01:
+      ansible_host: node01
