@@ -1,6 +1,6 @@
 # K8S
 
-# Add Network to pods
+**Add Network to pods**
 
 ```
 # Needs manual creation of namespace to avoid helm error
